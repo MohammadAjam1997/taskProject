@@ -1,1 +1,2 @@
-# taskProject
+# angularProject
+currency and table

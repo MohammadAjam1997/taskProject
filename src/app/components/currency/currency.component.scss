@@ -1,0 +1,59 @@
+.backgroundImage {
+  background: white;
+  width: 381px;
+  height: 417px;
+
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+  border-radius: 0px 0px 10px 10px;
+
+}
+
+.colorText {
+  color: #444444;
+  font-size: 22px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+
+}
+
+.backgroundIcon {
+  background-color: #EFEFEF;
+  height: 64px;
+  width: 64px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+}
+
+.colorTexts {
+  color: #444444;
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+
+}
+
+.home-page {
+  background-color: #F3F3F3;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; 
+  width: 100%;
+}
+
+.ratePar {
+  font-size: 14px;
+  opacity: 0.5;
+  padding-top: 2px;
+
+}
+
+.nameIcon {
+  font-size: 12px;
+  color: #444444;
+  font-family: 'Roboto', sans-serif;
+  color: #444444;
+
+}
